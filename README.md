@@ -1,5 +1,5 @@
 # code_bytes
-This repository contains our project on the theme smart education for SIH 2023
+This repository contains our project on the theme smart education for SIH 2023.
 Please find the link attached for our e-portal prototype.
 Hope you will like the work.
 Feel free to revert back.
